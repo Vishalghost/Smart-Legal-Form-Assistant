@@ -3,6 +3,7 @@ Smart Legal Form Assistant is a web-based platform designed to help common citiz
 
 
 🎯 Core Objectives:
+
 Help users identify the right legal form through simple questions or natural language input.
 
 Guide them through a step-by-step filling process with plain-language instructions.
@@ -15,6 +16,7 @@ Support multilingual and regional access.
 
 
 🔍 Features:
+
 🧠 RAG-based legal assistant (AI chatbot)
 
 📘 Graph-based form recommendation engine
